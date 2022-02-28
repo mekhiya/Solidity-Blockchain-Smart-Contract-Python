@@ -1,0 +1,1 @@
+Simple solidity contract explaining data types like uint256, string, struct, mapping
